@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<meta chatset = "utf-8">
+		<title>Register</title>
+		<link href = "css/bootstrap.min.css" rel = "stylesheet">
+	</head>
+	<body>
+		<nav class = "navbar navbar-default">
+			<!-- Mobile Toggle button -->
+			<div class = "container-fluid">
+				<div class="navbar-header">
+     				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+       					<span class="sr-only">Toggle navigation</span>
+       					<span class="icon-bar"></span>
+       					<span class="icon-bar"></span>
+        			<span class="icon-bar"></span>
+      				</button>
+      				<a class="navbar-brand" href="#">GFW</a>
+    			</div>
+			
+				<div class = "collapse navbar-collapse">
+					<ul class = "nav navbar-nav">
+						<li role = "presentation" ><a href="homepage.html">Home</a></li>
+						<li role = "presentation"><a href="#">Contacts</a></li>
+					</ul>
+					<ul class = "nav navbar-nav navbar-right">
+						<li role = "presentation" class = "active"><a href="signup.html">Register<li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+
+
+		<!-- CONTENT -->
+		<div class = "container">
+			<div class = "jumbotron">
+				<Center><h1>Register:</h1>
+				<form name = "registration" method = "post" action="register.php">
+					<div><label><p>Username:</p><input type = "text" name = "username" value = "" placeholder = "Username"></label></div>
+					<div><label><p>Email:</p><input type = "email" name = "email" value = "" placeholder = "example@mail.com"></label></div>
+					<div><label><p>Password:</p><input type = "password" name = "password" value = "" placeholder  = "Enter your password"></label></div>
+					<div><label><p>Confirm Password:</p><input type = "password" name = "con_password" value = "" placeholder = "Re-enter your password"></label></div>
+					<div><input = type = "submit" class = "btn btn-lg btn-primary"></div>
+
+					<!--<div class = "btn-group">
+						<button type = "submit" class = "btn btn-lg btn-primary" name = "submit" value = "submit">Submit</button>
+					</div>-->
+				</form>
+				</center>
+			</div>
+		</div>
+	</body>
+</html>

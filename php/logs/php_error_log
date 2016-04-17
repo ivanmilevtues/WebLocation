@@ -1,0 +1,7 @@
+[15-Apr-2016 16:05:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected '{' in D:\Ivan\school\IT\server\htdocs\register.php on line 3
+[15-Apr-2016 16:05:59 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in D:\Ivan\school\IT\server\htdocs\register.php on line 18
+[15-Apr-2016 16:06:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in D:\Ivan\school\IT\server\htdocs\register.php on line 18
+[15-Apr-2016 16:06:16 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in D:\Ivan\school\IT\server\htdocs\register.php on line 18
+[15-Apr-2016 16:06:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in D:\Ivan\school\IT\server\htdocs\register.php on line 18
+[15-Apr-2016 16:15:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in D:\Ivan\school\IT\server\htdocs\register.php on line 22
+[17-Apr-2016 19:43:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in D:\Ivan\school\IT\server\htdocs\register.php on line 18
